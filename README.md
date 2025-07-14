@@ -1,4 +1,4 @@
-# Binplorer — BNB Chain explorer
+mariograca.eth# Binplorer — BNB Chain explorer
 
 * Track address portfolios for any BNB Chain address with comprehensive balance charts and transactions;
 * View historical balances of holdings in USD;
